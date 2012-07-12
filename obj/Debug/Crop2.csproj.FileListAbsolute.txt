@@ -1,0 +1,11 @@
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\Crop.dll
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\Crop.pdb
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\GraphicsMgrLib.dll
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\HelpersLib.dll
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\ImageQuantization.dll
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\GraphicsMgrLib.pdb
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\HelpersLib.pdb
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\bin\Debug\ImageQuantization.pdb
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\obj\Debug\ResolveAssemblyReference.cache
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\obj\Debug\Crop.dll
+C:\emacsd\cygwin\home\ptmono\tmp\csharp\zscreen\trunk\Crop2\Crop2\obj\Debug\Crop.pdb
